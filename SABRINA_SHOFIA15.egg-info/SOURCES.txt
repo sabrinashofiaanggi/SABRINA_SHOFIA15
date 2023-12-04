@@ -1,0 +1,8 @@
+setup.py
+SABRINA_SHOFIA15.egg-info/PKG-INFO
+SABRINA_SHOFIA15.egg-info/SOURCES.txt
+SABRINA_SHOFIA15.egg-info/dependency_links.txt
+SABRINA_SHOFIA15.egg-info/top_level.txt
+sabrina_shofia15/__init__.py
+sabrina_shofia15/guess_number.py
+sabrina_shofia15/weight_conversion.py
